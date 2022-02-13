@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T10:18:12.159Z" agent="5.0 (Macintosh)" version="16.5.6" etag="E06pN0aiOzB5eItSAwBX" type="github"><diagram id="peoafS58APp5tpcJQwUv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-13T10:26:07.052Z" agent="5.0 (Macintosh)" etag="Pz4peEqTOe_PWM5fpb3b" version="16.5.6" type="github">
+  <diagram id="peoafS58APp5tpcJQwUv" name="Page-1">
+    <mxGraphModel dx="946" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-1" value="" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="430" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-2" value="" style="dashed=0;html=1;shape=mxgraph.aws3.cloud;fillColor=#F58536;gradientColor=none;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="90" width="52" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="196" width="72" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudformation;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.retention_policy;" vertex="1" parent="1">
+          <mxGeometry x="350" y="213" width="54" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="nNXWsLJQaBlPUTZBiXEA-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="237" as="sourcePoint" />
+            <mxPoint x="470" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-8" value="CloudFormation from CDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205.25" y="283" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-9" value="Retention Policy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="268" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nNXWsLJQaBlPUTZBiXEA-10" value="DynamoDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453" y="277" width="106" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
