@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T04:57:25.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" version="17.1.3" etag="ykNB6-ezJtwu57JojVP-" type="github"><diagram id="Zo1FflTl-gnxfiBI_1iC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-26T05:04:19.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="UC4jJacGo-dcAYwyd4Dg" version="17.1.3" type="github">
+  <diagram id="Zo1FflTl-gnxfiBI_1iC" name="Page-1">
+    <mxGraphModel dx="946" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#0000FF;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="570" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-1" value="AWS CodeBuild" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codebuild;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-2" value="AWS CodeCommit" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codecommit;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-3" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp; Source&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#994C00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-4" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Build&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-5" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Test&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-6" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Production&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="520" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-7" value="AWS CodeBuild + Others Tools" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codebuild;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-9" value="AWS CodeDeploy" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codedeploy;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OLVZO4eQFiIKDgsn3m4N-10" value="AWS CodePipeline" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.codepipeline;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="80" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
