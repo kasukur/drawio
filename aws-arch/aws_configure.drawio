@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T04:55:39.675Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.0" etag="pccY6G0Kg90hOoxtnCca" type="github"><diagram id="Pn1FHOkVL9yY1lSGm3-6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-19T05:05:49.820Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="7-O1EsRFcCSd8JG5Faio" version="17.4.0" type="github">
+  <diagram id="Pn1FHOkVL9yY1lSGm3-6" name="Page-1">
+    <mxGraphModel dx="2066" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nm0GumQrwE13qi6gpLsQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="760" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm0GumQrwE13qi6gpLsQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="690" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm0GumQrwE13qi6gpLsQ-3" value="&lt;pre style=&quot;font-size: 14px&quot;&gt;$ &lt;b&gt;&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;aws configure&lt;/font&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;font face=&quot;Verdana&quot;&gt;AWS Access Key ID [None]: &lt;i&gt;&lt;font color=&quot;#a10051&quot;&gt;AKIAOSGODNN8EXAMPLE&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;AWS Secret Access Key [None]: &lt;font color=&quot;#a10051&quot;&gt;wJalrxBtnAEMI/K7MDENG/bKyEfiCYEXAMPLEKEY&lt;/font&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 14px&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;Default region name [None]:&lt;i style=&quot;color: rgb(161 , 0 , 81)&quot;&gt; &lt;/i&gt;&lt;i&gt;&lt;font color=&quot;#a10051&quot;&gt;us-east-1&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 14px&quot;&gt;&lt;pre&gt;&lt;font face=&quot;Verdana&quot;&gt;Default output format [None]:&lt;/font&gt;&lt;font color=&quot;#a10051&quot; face=&quot;Verdana&quot; style=&quot;font-style: italic&quot;&gt; json&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;pre style=&quot;font-size: 14px&quot;&gt;&lt;i style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;font color=&quot;#a10051&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="610" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
