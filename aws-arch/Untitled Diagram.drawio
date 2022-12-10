@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2022-12-10T08:16:14.990Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="OCAYgcBkL5CWsUV8ZZMw" version="20.6.0" type="github">
+  <diagram id="aeW1Y2lv3QrO27x7YSiK" name="Page-1">
+    <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="arRw5crmaut9CY6-QUsX-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="530" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="arRw5crmaut9CY6-QUsX-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudformation;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="361.75" y="358" width="146.5" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="arRw5crmaut9CY6-QUsX-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/construction-2-21/512/construction-industry-building-30-128.png" vertex="1" parent="1">
+          <mxGeometry x="371" y="230" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="arRw5crmaut9CY6-QUsX-6" value="CloudFormation Hook" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="565" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
