@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T01:02:07.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_OpUSF_QqE4MHD8i6Ggj" version="20.6.2" type="github"><diagram id="tOe1b_C3d-Zp8R5ieBxD" name="Page-1">3Vddk5owFP01PuJAwqI+Cq7bzvTb6XT6GCFCxkBoCAvur++NBISFrduO+1J9IDm5Jpdz7kec4SCtHyTJk48ionyG7Kie4c0MIWR7Hjw0cmoQx16sGiSWLDLYBdixJ9oaGrRkES0GhkoIrlg+BEORZTRUA4xIKaqh2UHw4ak5iekI2IWEj9EfLFJJgy7R4oK/oyxO2pMdz7xfSlpj8yZFQiJR9SB8P8OBFEI1o7QOKNfstbw0v9u+sNo5JmmmXvMDnh6lpb462e7nZhEfg3r3qCyzyyPhpXlh46w6tQxIUWYR1ZvYM+xXCVN0l5NQr1YgOmCJSjnMHBiOnWpPoFLRugcZJx+oSKmSJzCph8qbiEGemVc9+m2DJT3q0cqAxEged1tfWIGBIeYvSMLXSRKl4iyjQReFmquIFElHnCaAQVx9IHvKv4iCKSYyWNsLpUTaM1hzFusFJTS3xMxCIJTKIdkQUbk+P61jnX1zUhV4TrJICv06/oFxHggu5NlFvN1uXBdo8ME4YrBdu5aJjN5GOrQYaucid6TdAs/vxuIt3TfSzr2uXUsjS8+1oM/wtCZXpeR6wSfhMT4nT0+Ew/kDJufD1kV+iRbSTg6s1lHjG382iVK62K01EWgbRpk9Z1DuDgzSUs5DOBFtI6IIPDRewJOLLLaagmNVdG+1+J2j6cxPKhGZ5aDlPM/iG+juetd1X02k7Jtl7N1/qLp7VXXwZyi0nlk5L4sbao29ZZvArdrYbZGe3h4e691iN9d7MaG3x5UuggLeFPp+07AA/VXqhusHopQMCiqyP9HqAsMo1k9fKAFruN0GvGp2apZH0QTkabxQUhzps8Lar8MG6gWb3tZceyBrzNxsPBWMKYsivTjuDLco4Gg1lHa1mJDWmWq/7g1y+bPc54/CWTvpt3r5vUw2Ca0tNNJ2nZInSD1k3wcTeX2kKkxMdk22Zc1wLznhu9XuvNQXh5r2s/lZg+02elXf73R8LnBXT/7U+qeuYb1IcuyJSCrAnEENwBs8fXlw57kUURmq96F20c9lMxja0BDdJtiwu5qjYSnp7gGDaHOmbgzOPwQcTC/37fNa728Lvv8N</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-18T01:03:23.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="g0hlMa83ZPLKdaDnWSjN" version="20.6.2" type="github">
+  <diagram id="tOe1b_C3d-Zp8R5ieBxD" name="Page-1">
+    <mxGraphModel dx="2066" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lmkr-tQ1nSYD7gkCxSvt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="260" width="800" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="lmkr-tQ1nSYD7gkCxSvt-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#FFD44F;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="270" y="424" width="73.5" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="lmkr-tQ1nSYD7gkCxSvt-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/python-128.png" parent="1" vertex="1">
+          <mxGeometry x="460" y="418" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lmkr-tQ1nSYD7gkCxSvt-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-128.png" parent="1" vertex="1">
+          <mxGeometry x="368.5" y="434.5" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="lmkr-tQ1nSYD7gkCxSvt-7" value="&lt;font face=&quot;Courier New&quot;&gt;Boto 3&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="256.75" y="497.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Orbpvo1A1mRx8UuhDhex-2" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" parent="1" vertex="1">
+          <mxGeometry x="349.25" y="284" width="101.5" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
